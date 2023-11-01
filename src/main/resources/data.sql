@@ -1,0 +1,4 @@
+INSERT INTO property (name, description)
+     VALUES ('Lake house', 'Do not miss this sunset! Relax with the whole family at this peaceful waterfront fishing hotspot!'),
+            ('South beach apartment', 'Beautifully renovated apartment in the highly desirable South Beach area. This unit is situated in Miami Beach, just one block from the ocean and it offers a private and quiet accommodation for vacationers and business travelers. '),
+            ('Boutique hotel NYC with Balcony','Minimalist rooms are spare but still inviting, and equipped with essentials like a coffeemaker and free WiFi. ');
